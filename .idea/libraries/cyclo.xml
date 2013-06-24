@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="cyclo">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../cyclo/src" />
+    </SOURCES>
+  </library>
+</component>
